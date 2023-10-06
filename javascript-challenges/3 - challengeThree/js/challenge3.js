@@ -61,6 +61,5 @@ function draw_map() {
         map.push(line);
     }
 }
-
 draw_map();
 find_sub(boat_pos, sub_pos);
